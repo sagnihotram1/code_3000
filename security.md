@@ -1,6 +1,6 @@
 ## Intended Use
-The code and data in this repository is explicity for the use of user aidensands for completing homework assignments for the University of Connecticut's CSE 3000.
+The code and data in this repository are explicitly for the use of user sagnihotram1 for completing homework assignments for the University of Connecticut's CSE 3000 Class.
 ## Security Risks
-There is no sensitive data or proprietary code in this repository and thus there are no relevant security concerns. 
+There is no sensitive data or proprietary code in this repository. Thus, there are no relevant security concerns. 
 ## Security Measures
-This repository contains code written purely for educational purposes and does not contain any sensitive information or proprietary code, therefore no rulesets or additional security measures have been put in place as they are not necessary.
+This repository contains code written purely for educational purposes and does not contain any sensitive information. Therefore, no additional security measures have been put in place.
