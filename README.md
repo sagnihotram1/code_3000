@@ -3,6 +3,9 @@ Collection of Assignments for CSE 3000: Contemporary Issues in Computer Science 
 
 _Note_: Odd-numbered assignments are in HuskyCT, while even-numbered assignments are found in this repo and can be submitted to Gradescope via a Github connection.
 
+## Ethics Statement
+As someone studying Computer Science, I want to use my technical skills to build things that are useful, trustworthy, and do not cause harm to others. One of the biggest ethical concerns I have is creating technology that negatively affects my environment, like the planet and the people around me. I believe that being ethical means being responsible for the work that I create, understanding how it affects others, and being transparent about my use of AI. I also believe that AI should be used as a tool to support learning rather than replace my own knowledge and understanding. This means verifying AI-generated information, protecting sensitive data, and making sure the things I create are tested for bias and fairness. Overall, I want my work to be something that positively impacts others and is trustworthy. I believe that responsibility goes beyond simply making something that works.
+
 ## Outline of Assignments
 
 ### Module 02: Bot Predictor
